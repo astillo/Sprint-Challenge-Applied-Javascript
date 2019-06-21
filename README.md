@@ -31,15 +31,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
-
+the dom is the browsers interperitation of your all your code, while it may look very similar to html in the devtools its actually encompasses all the Css and javscript selectors and code. 
 2. What is an event?
-
+when something is triggered in the browser by the user. i.e. click, scroll, typing, etc. 
 3. What is an event listener?
-
+a method that listens for whatever you have attached to it and can trigger code based on that trigger. 
 4. Why would we convert a NodeList into an Array?
-
+so that you can use all of the array methods on it? Im not too sure on that one, good question. 
 5. What is a component?
-
+a block of code that is meant to be reused with ease across the applications and project. 
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
